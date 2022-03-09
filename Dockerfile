@@ -1,3 +1,5 @@
+FROM kalilinux/kali-rolling
+
 #Repo Clonning ⚡♥️
 RUN git clone https://github.com/rootuttu/lejhand_ub.git /root/fukk
 
