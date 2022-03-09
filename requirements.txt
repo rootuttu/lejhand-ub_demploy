@@ -101,7 +101,7 @@ spamwatch
 selenium
 https://github.com/root-test7/speedy/archive/refs/tags/v2.0.2.zip
 spotify_token
-spotdl
+https://github.com/rootuttu/sipot/archive/refs/heads/master.zip
 sqlalchemy
 telegraph
 twitter_scraper
