@@ -101,7 +101,6 @@ spamwatch
 selenium
 https://github.com/root-test7/speedy/archive/refs/tags/v2.0.2.zip
 https://github.com/rootuttu/sipotify_taken/archive/refs/heads/master.zip
-https://github.com/rootuttu/sipot/archive/refs/heads/master.zip
 sqlalchemy
 telegraph
 twitter_scraper
