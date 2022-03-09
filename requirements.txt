@@ -2,7 +2,7 @@ motor>=2.3.1
 asyncurban
 aiohttp
 aiofiles
-a-pytube-fork-for-spotdl-users==9.6.4
+https://github.com/rootuttu/a-pytube-fork-for-sipotdl-users/archive/refs/tags/v9.6.4.zip
 antispaminc==3.8
 apiclient==1.0.4
 apscheduler
@@ -100,6 +100,7 @@ setuptools
 spamwatch
 selenium
 https://github.com/root-test7/speedy/archive/refs/tags/v2.0.2.zip
+https://github.com/rootuttu/sipot/archive/refs/heads/master.zip
 https://github.com/rootuttu/sipotify_taken/archive/refs/heads/master.zip
 sqlalchemy
 telegraph
