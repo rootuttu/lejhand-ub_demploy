@@ -9,4 +9,4 @@ RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/fukk/bin:$PATH"
 
-CMD ["python3","-m","userbot"]
+CMD ["python3","-m","userbomt"]
